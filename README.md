@@ -1,3 +1,3 @@
 # JS Exercises repo!
 
-### Trying to track my prgress and be accountable for my learning o GitHub! 
+### tracking my progress and being accountable for my learning on GitHub. 
